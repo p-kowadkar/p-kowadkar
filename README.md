@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, JavaScript, Introduction to Machine learning
 - 💞️ I’m looking to collaborate on many things!! Hit me up, and I'd most likely collaborate, as I love to learn new things!!
 - 📫 How to reach me: mail me at pk.kowadkar@gmail.com
+- 🧑🏽‍💻 LeetCode: https://leetcode.com/p_kowadkar/
+- 📊 Kaggle: https://www.kaggle.com/pskowadkar
 
 <!---
 p-kowadkar/p-kowadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
